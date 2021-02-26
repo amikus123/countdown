@@ -26,6 +26,7 @@ h1 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 7px;
+  text-align: center;
 }
 .card-list{
     padding-top: 3rem;
